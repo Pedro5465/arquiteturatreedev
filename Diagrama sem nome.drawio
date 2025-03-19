@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Página-1" id="OKVI52Qlez-yGc6pc8ad">
-    <mxGraphModel>
+    <mxGraphModel dx="756" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nMu7LTH7eqyM7O5s3VIu-1" value="Web Site 1.0" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nMu7LTH7eqyM7O5s3VIu-2" value="TreeDev" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nMu7LTH7eqyM7O5s3VIu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" edge="1" parent="1" source="nMu7LTH7eqyM7O5s3VIu-1" target="nMu7LTH7eqyM7O5s3VIu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMu7LTH7eqyM7O5s3VIu-6" value="LOGICA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="620" y="610" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nMu7LTH7eqyM7O5s3VIu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nMu7LTH7eqyM7O5s3VIu-2" target="nMu7LTH7eqyM7O5s3VIu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMu7LTH7eqyM7O5s3VIu-10" value="JOGOS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="680" y="710" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nMu7LTH7eqyM7O5s3VIu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nMu7LTH7eqyM7O5s3VIu-6" target="nMu7LTH7eqyM7O5s3VIu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
